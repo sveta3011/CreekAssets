@@ -52,6 +52,14 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraSimulationStages",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
